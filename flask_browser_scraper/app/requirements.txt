@@ -1,0 +1,3 @@
+amazoncaptcha==0.5.2
+Flask==2.0.2
+undetected-chromedriver==3.1.0
